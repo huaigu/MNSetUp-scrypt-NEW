@@ -1,5 +1,7 @@
 # ![Trittium Coin](http://54.36.159.72:8080/images/logo.png)
 
+Fixed sync issue, add addnodes section to this script.
+
 Use this instructions to install the wallet,  and setup single masternode on Windows machine(HOT walet)(s).
 
 
